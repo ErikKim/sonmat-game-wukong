@@ -1,0 +1,2987 @@
+{
+ "EVT_hit_enm_magic_strong_mid_normal_meat": {
+  "class": "get_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 8
+ },
+ "EVT_player_wk_atk_combo_wosh_wood_pre01": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_player_wk_atk_combo_wosh_wood_pre02": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_player_wk_atk_zadi_water_strong": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 30
+ },
+ "EVT_player_wk_fabao_taochu": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 23
+ },
+ "EVT_player_wk_pigun_xuli_level01_done": {
+  "class": "charge",
+  "weight": "light",
+  "gain": 2.0,
+  "snap": false,
+  "count": 315
+ },
+ "EVT_player_wk_pigun_xuli_level03_cast_air_rotate": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": false,
+  "count": 31
+ },
+ "EVT_player_wk_atk_combo_finaljump_wosh": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.48,
+  "snap": false,
+  "count": 143
+ },
+ "EVT_player_wk_atk_jump_feiti": {
+  "class": "move",
+  "weight": "none",
+  "gain": 0.98,
+  "snap": false,
+  "count": 28
+ },
+ "EVT_player_wk_atk_special_shine": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 6
+ },
+ "EVT_player_wk_fashu_dss_break": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.93,
+  "snap": false,
+  "count": 40
+ },
+ "EVT_player_wk_fashu_tttb_cast": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.33,
+  "snap": true,
+  "count": 81
+ },
+ "EVT_player_wk_pigun_xuli_wosh_pre_metal": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.58,
+  "snap": false,
+  "count": 31
+ },
+ "EVT_player_wk_qiang_atk_wosh_combo02_atk": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 3
+ },
+ "EVT_player_wk_pigun_xuli_level02_cast_air_rotate": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": false,
+  "count": 3
+ },
+ "EVT_player_enm_yangjian_body_slide": {
+  "class": "other",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 10
+ },
+ "EVT_player_wk_fabao_bajiaoshan_cast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 13
+ },
+ "EVT_player_wk_fashu_swsf_cast": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 8
+ },
+ "EVT_player_wk_act_landtype_general_roll01": {
+  "class": "move",
+  "weight": "light",
+  "gain": 0.8,
+  "snap": false,
+  "count": 569
+ },
+ "EVT_player_wk_act_landtype_general_roll02": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 0.86,
+  "snap": false,
+  "count": 66
+ },
+ "EVT_player_wk_act_landtype_general_roll03": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 16
+ },
+ "EVT_player_wk_chenggun_special02": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 1
+ },
+ "EVT_player_wk_pigun_xuli_level02_done": {
+  "class": "charge",
+  "weight": "mid",
+  "gain": 2.0,
+  "snap": false,
+  "count": 237
+ },
+ "EVT_player_wk_weapon_catchbang_metal": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 0.94,
+  "snap": true,
+  "count": 37
+ },
+ "EVT_hit_player_bang_levelall_parry": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 246
+ },
+ "EVT_player_wk_akt_zhuangun_strong_metal_wosh": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 405,
+  "override": "zhuangun_.*wosh"
+ },
+ "EVT_player_wk_fs_bare_land_general": {
+  "class": "move",
+  "weight": "none",
+  "gain": 0.83,
+  "snap": false,
+  "count": 80
+ },
+ "EVT_player_wk_pigun_special02_cast_xiapi": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 1
+ },
+ "EVT_player_wk_pigun_xuli_level02_cast": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 5
+ },
+ "EVT_player_wk_act_body_hitground": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 3
+ },
+ "EVT_player_wk_act_dodge03_wosh": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 0.8,
+  "snap": false,
+  "count": 109
+ },
+ "Player_WK_ATK_Woosh_ComboA_q2_Rotate": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.54,
+  "snap": false,
+  "count": 49
+ },
+ "Player_WK_ATK_Woosh_Mid_Strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.49,
+  "snap": false,
+  "count": 89
+ },
+ "EVT_player_wk_chenggun_xuli_level04": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_player_wk_fashu_swsf_fenshen_gone": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 24
+ },
+ "EVT_player_wk_pigun_xuli_level04_cast_huiwu": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 44
+ },
+ "EVT_hit_enm_fist_strong_strong_normal_meat": {
+  "class": "get_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 10
+ },
+ "EVT_hit_enm_sharp_strong_strong_normal_meat": {
+  "class": "get_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 6
+ },
+ "EVT_hit_player_bang_levelall_parry_all": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 1.89,
+  "snap": true,
+  "count": 35
+ },
+ "EVT_player_wk_qiang_atk_wosh_combo04_pre": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 2
+ },
+ "EVT_player_wk_fashu_jxsq_loop": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.92,
+  "snap": false,
+  "count": 41
+ },
+ "EVT_player_wk_pigun_xuli_cast_hitground": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.32,
+  "snap": true,
+  "count": 87
+ },
+ "EVT_player_wk_qiang_atk_wosh_combo04_atk": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 2
+ },
+ "Player_WK_ATK_ComboA_ShenSuo": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 2
+ },
+ "EVT_player_wk_atk_zadi_snow_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 2
+ },
+ "EVT_player_wk_bianshen_trans_to_monster_fast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 8
+ },
+ "EVT_player_wk_fabao_fanghui": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 11
+ },
+ "EVT_player_wk_fashu_jxsq_poyin": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.93,
+  "snap": false,
+  "count": 40
+ },
+ "EVT_player_wk_jingzhunshanbi": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 237
+ },
+ "EVT_player_wk_pigun_xuli_level03_cast_xiapi_impact": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 31
+ },
+ "EVT_player_wk_qiang_atk_wosh_tail": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 7
+ },
+ "EVT_player_wk_fabao_dingfengzhu_cast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 4
+ },
+ "EVT_player_wk_act_dodge01_wosh": {
+  "class": "move",
+  "weight": "light",
+  "gain": 0.8,
+  "snap": false,
+  "count": 1791
+ },
+ "EVT_player_wk_act_jump_up_wosh": {
+  "class": "move",
+  "weight": "none",
+  "gain": 0.8,
+  "snap": false,
+  "count": 107
+ },
+ "EVT_player_wk_act_weaponfall_general_metal": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 10
+ },
+ "EVT_player_wk_atk_zadi_water_light": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.52,
+  "snap": true,
+  "count": 60
+ },
+ "EVT_player_wk_fashu_dss_hit": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.94,
+  "snap": false,
+  "count": 37
+ },
+ "EVT_player_wk_fs_bare_land_wood": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 11
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo05_jump": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.48,
+  "snap": false,
+  "count": 114
+ },
+ "EVT_player_wk_fashu_tttb_success": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 2.0,
+  "snap": true,
+  "count": 1
+ },
+ "EVT_player_wk_fs_bare_land_general_high": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_player_wk_act_die_bodyfall_water": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 0.84,
+  "snap": true,
+  "count": 79
+ },
+ "EVT_player_wk_act_dodge02_wosh": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": false,
+  "count": 270
+ },
+ "EVT_player_wk_pigun_xuli_level01_cast": {
+  "class": "release",
+  "weight": "light",
+  "gain": 0.96,
+  "snap": true,
+  "count": 13
+ },
+ "EVT_hit_player_bang_levelall_parry_jipo": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 2.0,
+  "snap": true,
+  "count": 14
+ },
+ "EVT_player_wk_act_landtype_water_roll01": {
+  "class": "move",
+  "weight": "light",
+  "gain": 0.8,
+  "snap": false,
+  "count": 959
+ },
+ "EVT_player_wk_act_landtype_water_roll02": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": false,
+  "count": 114
+ },
+ "EVT_player_wk_act_landtype_water_roll03": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 23
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo05_xiapi": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.28,
+  "snap": true,
+  "count": 118
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_pre01": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.48,
+  "snap": false,
+  "count": 122
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_pre02": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.48,
+  "snap": false,
+  "count": 125
+ },
+ "EVT_player_wk_bianshen_trans_to_player": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 14
+ },
+ "EVT_player_wk_fs_bare_land_grass": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 23
+ },
+ "EVT_player_wk_item_eat": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 16
+ },
+ "EVT_player_wk_pigun_xuli_wosh_pre_wood": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_player_wk_atk_zadi_general_light": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.54,
+  "snap": true,
+  "count": 50
+ },
+ "EVT_player_wk_jingzhunshanbi_baozha": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 359
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo01": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.48,
+  "snap": false,
+  "count": 714
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo03": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.48,
+  "snap": false,
+  "count": 391
+ },
+ "EVT_player_wk_atk_jump_feiti_success": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 18
+ },
+ "EVT_player_wk_atk_zadi_snow_light": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.58,
+  "snap": true,
+  "count": 31
+ },
+ "Player_WK_ATK_Woosh_Strong_Strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.49,
+  "snap": false,
+  "count": 95
+ },
+ "Player_WK_ATK_Woosh_Strong_Light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.55,
+  "snap": false,
+  "count": 43
+ },
+ "EVT_player_wk_fs_bare_land_snow": {
+  "class": "move",
+  "weight": "none",
+  "gain": 0.85,
+  "snap": false,
+  "count": 72
+ },
+ "EVT_player_wk_fs_bare_land_stone": {
+  "class": "move",
+  "weight": "none",
+  "gain": 0.9,
+  "snap": false,
+  "count": 48
+ },
+ "EVT_player_wk_act_die_disappear": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 16
+ },
+ "EVT_player_wk_fashu_dss_cast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.93,
+  "snap": false,
+  "count": 40
+ },
+ "EVT_player_wk_fashu_swsf_fenshen_appear": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.96,
+  "snap": false,
+  "count": 32
+ },
+ "EVT_player_wk_pigun_xuli_level01_rise": {
+  "class": "charge",
+  "weight": "light",
+  "gain": 1.25,
+  "snap": false,
+  "count": 13
+ },
+ "EVT_player_wk_pigun_xuli_level04_cast_xiapi": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 48
+ },
+ "EVT_hit_enm_arrow_zhuangun": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 2.0,
+  "snap": true,
+  "count": 9
+ },
+ "EVT_player_skill_heyao": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.8,
+  "snap": false,
+  "count": 137
+ },
+ "Player_WK_ATK_Whoosh_ComboA_q4_Rotate_A": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.56,
+  "snap": false,
+  "count": 40
+ },
+ "Player_WK_ATK_Whoosh_ComboA_q4_Rotate_B": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.56,
+  "snap": false,
+  "count": 39
+ },
+ "Player_WuKong_Skill_Cure": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 10
+ },
+ "EVT_player_wk_atk_zadi_general_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 15
+ },
+ "EVT_player_wk_hulu_xiqu01": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 4
+ },
+ "EVT_player_wk_hulu_xiqu02": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 2
+ },
+ "EVT_player_wk_pigun_xuli_level03_done_noloop": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 0.8,
+  "snap": false,
+  "count": 125
+ },
+ "EVT_player_wk_pigun_xuli_level04_cast_xiapi_impact": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 41
+ },
+ "EVT_player_wk_act_landtype_snow_roll01": {
+  "class": "move",
+  "weight": "light",
+  "gain": 0.8,
+  "snap": false,
+  "count": 402
+ },
+ "EVT_player_wk_act_landtype_snow_roll02": {
+  "class": "move",
+  "weight": "mid",
+  "gain": 0.87,
+  "snap": false,
+  "count": 61
+ },
+ "EVT_player_wk_act_landtype_snow_roll03": {
+  "class": "move",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 20
+ },
+ "EVT_player_wk_act_reborn_appear": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 17
+ },
+ "EVT_player_wk_bianshen_trans_to_monster": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 11
+ },
+ "EVT_player_wk_fashu_dss_hit_rise": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 19
+ },
+ "EVT_player_wk_fs_bare_land_mud": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 6
+ },
+ "EVT_player_wk_pigun_special01_cast_jump": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 4
+ },
+ "EVT_player_wk_pigun_xuli_level03_done": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 2.0,
+  "snap": false,
+  "count": 84
+ },
+ "EVT_player_wk_act_weaponfall_water": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 5
+ },
+ "EVT_player_wk_atk_zadi_general_strong": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 13
+ },
+ "EVT_player_wk_fashu_jxsq_cast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 0.93,
+  "snap": false,
+  "count": 39
+ },
+ "EVT_player_wk_fs_bare_land_water": {
+  "class": "move",
+  "weight": "none",
+  "gain": 0.8,
+  "snap": false,
+  "count": 208
+ },
+ "EVT_player_wk_act_rock_slide": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 10
+ },
+ "EVT_player_wk_pigun_xuli_level03_cast": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 39
+ },
+ "EVT_player_wk_qiang_atk_wosh_combo01": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 8
+ },
+ "EVT_player_wk_qiang_atk_wosh_combo03": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 2
+ },
+ "Player_WK_ATK_Impact_ComboA_q5": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 0.8,
+  "snap": true,
+  "count": 130
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo04a": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.48,
+  "snap": false,
+  "count": 259
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo04b": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.48,
+  "snap": false,
+  "count": 145
+ },
+ "EVT_wk_atk_water_slide_light": {
+  "class": "move",
+  "weight": "light",
+  "gain": 0.8,
+  "snap": false,
+  "count": 1821
+ },
+ "Player_WK_Action_Whoosh_Light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 7
+ },
+ "EVT_player_wk_act_die_bodyfall_general": {
+  "class": "get_hit",
+  "weight": "none",
+  "gain": 0.8,
+  "snap": true,
+  "count": 245
+ },
+ "EVT_player_wk_pigun_xuli_level04_cast_jump": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 46
+ },
+ "EVT_wukong_act_teleport_start": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_player_wk_atk_combo_wosh_wood_combo05_xiapi": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 1
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo02a": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.48,
+  "snap": false,
+  "count": 569
+ },
+ "EVT_player_wk_atk_combo_wosh_metal_combo02b": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.48,
+  "snap": false,
+  "count": 483
+ },
+ "EVT_player_wk_atk_zadi_water_mid": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.26,
+  "snap": true,
+  "count": 26
+ },
+ "EVT_player_wk_akt_zhuangun_light_metal_wosh_a": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 1.2,
+  "snap": true,
+  "count": 145,
+  "override": "zhuangun_.*wosh"
+ },
+ "EVT_player_wk_akt_zhuangun_light_metal_wosh_b": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 1.2,
+  "snap": true,
+  "count": 60,
+  "override": "zhuangun_.*wosh"
+ },
+ "EVT_player_wk_pigun_xuli_level03_rise": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 1.5,
+  "snap": false,
+  "count": 17
+ },
+ "EVT_player_wk_pigun_xuli_level04_done": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 2.0,
+  "snap": false,
+  "count": 146
+ },
+ "EVT_player_wk_pigun_xuli_level02_rise": {
+  "class": "charge",
+  "weight": "mid",
+  "gain": 1.9,
+  "snap": false,
+  "count": 19
+ },
+ "EVT_player_wk_atk_zadi_snow_strong": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 6
+ },
+ "EVT_player_wk_qiang_atk_wosh_combo02_pre": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 3
+ },
+ "EVT_player_wk_fashu_tttb_end": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 1.99,
+  "snap": true,
+  "count": 25
+ },
+ "EVT_player_wk_pigun_xuli_level03_cast_xiapi": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 34
+ },
+ "EVT_hit_enm_magic_zhuangun": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 190
+ },
+ "EVT_player_wk_pigun_special01_cast_xiapi": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 4
+ },
+ "EVT_hit_player_bang_level01_light_normal_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_env_interaction_plant_bush_slim": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 2
+ },
+ "EVT_env_interaction_plant_tree_slim": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.64,
+  "snap": false,
+  "count": 45
+ },
+ "EVT_env_interaction_object_treasurebox_deskurn": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 4
+ },
+ "ENV_Position_BPO_Stick": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 5
+ },
+ "EVT_env_interaction_plant_branch_stick": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.58,
+  "snap": false,
+  "count": 85
+ },
+ "EVT_env_interaction_object_treasurebox_efx_lv1": {
+  "class": "environment",
+  "weight": "light",
+  "gain": 0.7,
+  "snap": false,
+  "count": 3
+ },
+ "EVT_env_interaction_object_treasurebox_efx_lv2": {
+  "class": "environment",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 4
+ },
+ "EVT_env_bpo_position_crock_mid": {
+  "class": "environment",
+  "weight": "mid",
+  "gain": 0.68,
+  "snap": false,
+  "count": 28
+ },
+ "EVT_env_interaction_plant_branch_leaf": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.61,
+  "snap": false,
+  "count": 63
+ },
+ "EVT_env_interaction_movable_chuanglian": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1
+ },
+ "ENV_Position_BPO_Wood_Small": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_env_bpo_position_bell_wood_big": {
+  "class": "environment",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 5
+ },
+ "ENV_Position_BPO_Rock_Big": {
+  "class": "environment",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_env_bpo_position_wood_mid02": {
+  "class": "environment",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 14
+ },
+ "ENV_Position_BPO_Rock_Mid": {
+  "class": "environment",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 20
+ },
+ "ENV_Position_BPO_Crock": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 11
+ },
+ "EVT_env_interaction_hfm_hugedoor_01_hfdw": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1
+ },
+ "EVT_env_interaction_movable_zhulian": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 4
+ },
+ "EVT_env_interaction_object_treasurebox_woodchest01": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 3
+ },
+ "EVT_env_interaction_plant_reed": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.56,
+  "snap": false,
+  "count": 298
+ },
+ "ENV_Position_BPO_Wood_Mid": {
+  "class": "environment",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 20
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.32,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_critical_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.06,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_critical_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_normal_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_critical_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.97,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_critical_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.32,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_critical_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.86,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.97,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_critical_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.3,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.86,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.15,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.44,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_normal_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_normal_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_critical_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.06,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.32,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_critical_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_critical_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.06,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.3,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_critical_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.15,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_normal_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_critical_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.44,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.97,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.44,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_metal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_critical_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.79,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_normal_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.79,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.79,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.15,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.96,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_normal_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_normal_stone": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.66,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_frozenhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_shieldmetal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_bone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_normal_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_normal_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_normal_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.35,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_normal_wood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_meat": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_skillsuperarmor_stone": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.2,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_normal_wood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_bone": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_critical_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.3,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_skillsuperarmor_metal": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.81,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_critical_shieldmetal": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.86,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_normal_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.88,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_skillsuperarmor_hardinsect": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_skillsuperarmor_wood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_frozenbreakhit_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.72,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_skillsuperarmor_shieldwood": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 1.08,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_immobilizedhit_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.1,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_normal_shieldwood": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_ui_title_entergame": {
+  "class": "ui",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ }
+}

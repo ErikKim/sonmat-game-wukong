@@ -1,0 +1,183 @@
+{
+  "name": "Black Myth: Wukong",
+  "name_ko": "검은신화 오공",
+  "exe": "b1-Win64-Shipping.exe",
+  "steam_input": "off",
+  "engine": "wwise",
+  "install": {
+              "ue4ss": {"settings": {"EngineVersionOverride": {"MajorVersion": "5", "MinorVersion": "0"}, "General": {"bUseUObjectArrayCache": "true"}}, "mods": ["DSHaptics"]}},
+  "event_file": "C:\\Users\\Public\\dshaptics\\events.log",
+  "source": {
+    "type": "ue_pak_bnk", "steam_dir": "BlackMythWukong", "paks": "b1/Content/Paks", "game": "GAME_BlackMythWukong", "needs_key": true, "exe": "b1/Binaries/Win64/b1-Win64-Shipping.exe",
+    "event_ids": "event_ids.json", "trees": "trees.json", "hap": "hap", "spk": "spk", "auto_rules": "rules_auto.json",
+    "speaker": "xuli_level0\\d_done$|jingzhunshanbi",
+    "steps": {"events": "(^|/)WuKong_Footstep$", "table": "layers_step_switch.json", "dir": "step", "speaker_dir": "step_spk"},
+    "scenes": {"cues": "(^|/)(EVT_sfx_seq_\\w+|EVT_sfx_mv\\d*|SEQ_[A-Z]+_Cpt|EVT_seq_hfm_kaimen_fail|SEQ_HFS_Cpt040_Seq020_SFX_Wolf)$", "skip": "rebirthpoint", "trees": "trees_seq.json", "dir": "seq", "rate": 4000, "target": 0.35, "pct": 99, "keep": 0.0}
+  },
+  "native": {
+    "dll": "dshaptics_wwise.dll",
+    "sigs_file": "sigs.txt",
+    "event_ids": "event_ids.json"
+  },
+
+  "master": 1.0,
+  "rough": {
+   "cloud": "hover",
+   "cloud_up": "riser",
+   "cloud_rush": "dash",
+   "cloud_spray": "spray",
+   "cloud_grab": "hand",
+   "heartbeat": "pulse",
+   "tick": "button",
+   "thud": "massive",
+   "hit_light": "hit",
+   "hit_heavy": "hit",
+   "hit_fly": "hit_l",
+   "dodge": "dash",
+   "parry": "pguard",
+   "landed": "hit",
+   "heal": "heal",
+   "swing": "swing",
+   "down": "down",
+   "step": "step",
+   "land": "land_heavy",
+   "swing2": "swing",
+   "struck": "hit",
+   "impact": "hit",
+   "jump": "jump",
+   "tutuk": "swing",
+   "deflect": "parry"
+  },
+  "style": {"rough": "hit", "hit": "sb", "top": "parry|jingzhunshanbi|hit_fly", "skip": "heartbeat|zhuangun|_wosh|step|xuli|thud|^land$|FS_land|LandType|^cloud",
+            "sizes": [["_light_", {"hz": 62, "ms": 18}], ["_strong_", {"hz": 40, "ms": 45}], ["jingzhunshanbi", {"tail_s": 2.6, "tail": 0.3}], ["hit_fly", {"hz": 40, "top_ms": 150, "tail_s": 1.8}], ["die_bodyfall|^down$", {"hz": 40, "ms": 45}], ["baozha|explo|bomb", {"tail_s": 2.4, "tail": 0.3, "hz": 45, "ms": 70}]]},
+  "duck": 0.3,
+  "synth_gain": 0.7,
+
+  "waves": {"cloud": [[190, 45, 0.1, 25], [120, 60, 0.07, 30]], "cloud_up": [{"swell": [70, 450, 0.6]}], "cloud_rush": [{"swell": [95, 350, 0.7]}], "cloud_spray": [[150, 30, 0.4, 12], [80, 200, 0.28, 90]], "cloud_grab": [[70, 60, 1.0, 30], [45, 180, 0.9, 80]], 
+    "heartbeat": [[55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400, [55, 80, 0.8, 35], 120, [48, 100, 0.55, 45], 400],
+    "tick":      [[160, 30, 0.6, 12]],
+    "thud":      [[55, 260, 1.0, 110]],
+    "hit_light": [[90, 70, 0.96, 35]],
+    "hit_heavy": [[60, 200, 1.0, 90]],
+    "hit_fly":   [[50, 380, 1.0, 180], 40, [70, 120, 0.5, 50]],
+    "dodge":     [[130, 35, 0.5, 15], 55, [130, 35, 0.5, 15]],
+    "parry":     [[220, 25, 1.0, 8], [80, 120, 0.8, 50]],
+    "landed":    [[110, 45, 0.55, 18]],
+    "heal":      [{"swell": [70, 600, 0.45]}],
+    "swing":     [[140, 25, 0.18, 10]],
+    "down":      [[45, 450, 1.0, 200]],
+    "step":      [[65, 35, 0.32, 14]],
+    "land":      [[55, 110, 0.75, 45]],
+    "swing2":    [[105, 45, 0.42, 18]],
+    "struck":    [[70, 60, 1.0, 30], [45, 140, 0.7, 70]],
+    "impact":    [[85, 70, 0.75, 28]],
+    "jump":      [[90, 40, 0.35, 15]],
+    "tutuk":     [[100, 30, 0.45, 12], 45, [100, 35, 0.6, 14]],
+    "deflect":   [[240, 20, 1.0, 6], [90, 90, 0.7, 35]]
+  },
+
+  "rules": [{"match": "jsds_zhuatou_jdy", "wave": "cloud_grab"}, {"match": "jindouyun_foot_land", "wave": "land"}, {"match": "jindouyun_start$|jindouyun_start_fall", "wave": "cloud_up"}, {"match": "Motion_jindouyun_chongci|jindouyun_start_run", "wave": "cloud_rush", "gap": 0.5}, {"match": "jindouyun_water_splash", "wave": "cloud_spray", "gap": 0.35}, 
+    {"match": "ui_hud_xintiao$",              "wave": "heartbeat"},
+    {"match": "xuli_level0?1_done",           "wave": "tick"},
+    {"match": "xuli_level0?2_done",           "wave": "tick"},
+    {"match": "xuli_level0?3_done",           "wave": "tick"},
+    {"match": "xuli_level0?4_done",           "wave": "tick"},
+    {"match": "hit_enm_.*_zhuangun",          "wave": "deflect"},
+    {"match": "zhuangun_.*wosh",              "wave": "tutuk"},
+    {"match": "xuli.*(cast|hitground|xiapi)", "wave": "thud"},
+    {"match": "voice_hurt_fly",               "wave": "hit_fly", "synth": true},
+    {"match": "voice_hurt_strong",            "wave": "hit_heavy", "synth": true},
+    {"match": "Player/.*voice_hurt",          "wave": "hit_light", "synth": true},
+    {"match": "SFX/Hit/.*EVT_hit_enm_",       "wave": "struck"},
+    {"match": "jingzhunshanbi_baozha",        "wave": "dodge"},
+    {"match": "bang_levelall_parry",          "wave": "parry"},
+    {"match": "Enemy/.*voice_hurt",           "wave": "landed", "synth": true},
+    {"match": "Attack/Impact/",               "wave": "impact"},
+    {"match": "skill_heyao$",                 "wave": "heal"},
+    {"match": "die_bodyfall",                 "wave": "down"},
+    {"match": "combo_wosh_metal|atk_.*wosh",  "wave": "swing2", "synth": true},
+    {"match": "act_dodge0?[1-3]_wosh",        "wave": "dodge"},
+    {"match": "FS_land|LandType",             "wave": "land"},
+    {"match": "jump_up_wosh",                 "wave": "jump"}
+  ],
+
+  "haptic_trim": [
+    ["parry", 2.0],
+    ["xuli_level0[34].*(cast|impact)", 1.6],
+    ["bang_level01_strong", 1.0],
+    ["bang_level01_mid", 0.8],
+    ["bang_level01_light", 0.6],
+    ["zhuangun", 1.2],
+    ["wosh", 0.6]
+  ],
+  "snap": "hit_player_bang|zhuangun|xuli.*(cast|impact)|zadi_",
+
+  "stops": [
+    ["xuli.*cast|act_dodge", "xuli_level0\\d_(rise|done)"],
+    ["ui_hud_xintiao_stop|wk_voice_die|act_reborn", "^heartbeat$"]
+  ],
+
+  "speaker": {
+    "all": false,
+    "allow": "xuli_level0\\d_done|jingzhunshanbi",
+    "skip": "_loop$",
+    "gain": 0.4,
+    "trim": [
+      ["zadi_|landtype_|fs_bare_land_|bodyfall_|weaponfall_|water_slide", 3.0]
+    ],
+    "lowcut_hz": [250, 450],
+    "bass": 0.05
+  },
+
+  "clips": {
+    "trees": "trees.json",
+    "spk": "spk",
+    "hap": "hap",
+    "auto_rules": "rules_auto.json"
+  },
+
+  "beds": {"cloud": {"on": "jindouyun_(start|loop)$", "off": "jindouyun_(end|foot_land)", "wave": "cloud", "every": 0.11, "vary": 0.6, "max": 300}}, "steps": {
+    "event": "WuKong_Footstep",
+    "layers": "layers_step_switch.json",
+    "dir": "step",
+    "speaker_dir": "step_spk",
+    "hint_skip": "wosh",
+    "peak": 0.07,
+    "plain_ms": 60,
+    "surface_peak": {"snow": 0.3, "water": 0.28, "grass": 0.26, "mud": 0.26, "ice": 0.24},
+    "speaker_gain": 0.12,
+    "surface_hint": "SFX/Player/.*?_(water|snow|mud|grass|wood|stone|ice|soil|general)(_|\\d|$)"
+  },
+
+  "env": {
+    "match": "^EVT_env_interaction_(plant_(bush_slim|tree_slim|branch_stick|branch_leaf|reed)|movable_(chuanglian|zhulian)|object_treasurebox_(deskurn|efx_lv[12]|woodchest01)|hfm_hugedoor_01_hfdw)$|^EVT_env_bpo_position_(crock_mid|bell_wood_big|wood_mid02)$|^ENV_Position_BPO_(Stick|Wood_Small|Wood_Mid|Rock_Big|Rock_Mid|Crock)$",
+    "gain": 0.7,
+    "texture": "plant_|zhulian|chuanglian",
+    "texture_hz": [320, 480], "texture_rough": "move_light",
+    "texture_peak": 0.16,
+    "texture_soft": [0.05, 0.3],
+    "texture_side": 0.8, "texture_pace": 0.35
+  },
+
+  "my_hit": {
+    "proxy": [
+      ["SFX/Enemy/.*(voice_hurt_(hard|strong|heavy|fly)|hurt_strong)", "EVT_hit_player_bang_level01_strong_normal_meat"],
+      ["SFX/Enemy/.*voice_hurt_mid", "EVT_hit_player_bang_level01_mid_normal_meat"],
+      ["SFX/Enemy/.*(voice_hurt|voice_hit|_hit_back)", "EVT_hit_player_bang_level01_light_normal_meat"]
+    ],
+    "gap": 0.08,
+    "window": 0.8,
+    "my_attack": "SFX/Player/.*(atk|wosh|xuli.*cast|zhuangun|feiti|fashu|skill)",
+    "native": "hit_player_bang_level0\\d_(light|mid|strong)_",
+    "native_gap": 0.07,
+    "native_fallback": "EVT_hit_player_bang_level01_{weight}_normal_meat",
+    "native_prefix": "SFX/Hit/Player_Hit_Enemy/"
+  },
+
+  "cutscene": {
+               "tracks": "trees_seq.json", "dir": "seq", "gain": 3.5, "skip": "EVT_seq_skip"},
+
+  "triggers": {
+    "spin": {"match": "zhuangun.*wosh", "pad": "L2", "effect": "vibrate", "amp": 2, "hz": 12, "hold": 0.4}
+  }
+}
