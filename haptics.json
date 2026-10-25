@@ -4,8 +4,6 @@
   "exe": "b1-Win64-Shipping.exe",
   "steam_input": "off",
   "engine": "wwise",
-  "install": {
-              "ue4ss": {"settings": {"EngineVersionOverride": {"MajorVersion": "5", "MinorVersion": "0"}, "General": {"bUseUObjectArrayCache": "true"}}, "mods": ["DSHaptics"]}},
   "event_file": "C:\\Users\\Public\\dshaptics\\events.log",
   "source": {
     "type": "ue_pak_bnk", "steam_dir": "BlackMythWukong", "paks": "b1/Content/Paks", "game": "GAME_BlackMythWukong", "needs_key": true, "exe": "b1/Binaries/Win64/b1-Win64-Shipping.exe",
@@ -13,11 +11,6 @@
     "speaker": "xuli_level0\\d_done$|jingzhunshanbi",
     "steps": {"events": "(^|/)WuKong_Footstep$", "table": "layers_step_switch.json", "dir": "step", "speaker_dir": "step_spk"},
     "scenes": {"cues": "(^|/)(EVT_sfx_seq_\\w+|EVT_sfx_mv\\d*|SEQ_[A-Z]+_Cpt|EVT_seq_hfm_kaimen_fail|SEQ_HFS_Cpt040_Seq020_SFX_Wolf)$", "skip": "rebirthpoint", "trees": "trees_seq.json", "dir": "seq", "rate": 4000, "target": 0.35, "pct": 99, "keep": 0.0}
-  },
-  "native": {
-    "dll": "dshaptics_wwise.dll",
-    "sigs_file": "sigs.txt",
-    "event_ids": "event_ids.json"
   },
 
   "master": 1.0,
