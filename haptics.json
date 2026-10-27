@@ -9,7 +9,7 @@
     "type": "ue_pak_bnk", "steam_dir": "BlackMythWukong", "paks": "b1/Content/Paks", "game": "GAME_BlackMythWukong", "needs_key": true, "exe": "b1/Binaries/Win64/b1-Win64-Shipping.exe",
     "event_ids": "event_ids.json", "trees": "trees.json", "hap": "hap", "spk": "spk", "auto_rules": "rules_auto.json",
     "speaker": "xuli_level0\\d_done$|jingzhunshanbi",
-    "steps": {"events": "(^|/)WuKong_Footstep$", "table": "layers_step_switch.json", "dir": "step", "speaker_dir": "step_spk"},
+    "steps": {"events": "(^|/)WuKong_Footstep$", "table": "layers_step_switch.json", "dir": "step"},
     "scenes": {"cues": "(^|/)(EVT_sfx_seq_\\w+|EVT_sfx_mv\\d*|SEQ_[A-Z]+_Cpt|EVT_seq_hfm_kaimen_fail|SEQ_HFS_Cpt040_Seq020_SFX_Wolf)$", "skip": "rebirthpoint", "trees": "trees_seq.json", "dir": "seq", "rate": 4000, "target": 0.35, "pct": 99, "keep": 0.0}
   },
 
@@ -133,12 +133,10 @@
     "event": "WuKong_Footstep",
     "layers": "layers_step_switch.json",
     "dir": "step",
-    "speaker_dir": "step_spk",
     "hint_skip": "wosh",
     "peak": 0.07,
     "plain_ms": 60,
     "surface_peak": {"snow": 0.3, "water": 0.28, "grass": 0.26, "mud": 0.26, "ice": 0.24},
-    "speaker_gain": 0.12,
     "surface_hint": "SFX/Player/.*?_(water|snow|mud|grass|wood|stone|ice|soil|general)(_|\\d|$)"
   },
 
