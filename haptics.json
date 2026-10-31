@@ -165,7 +165,7 @@
   },
 
   "cutscene": {
-               "tracks": "trees_seq.json", "dir": "seq", "gain": 3.5, "skip": "EVT_seq_skip"},
+               "tracks": "trees_seq.json", "dir": "seq", "gain": 3.5, "skip": "EVT_seq_skip", "end": "^EVT_env_bus_volume_unmute$"},
 
   "triggers": {
     "spin": {"match": "zhuangun.*wosh", "pad": "L2", "effect": "vibrate", "amp": 2, "hz": 12, "hold": 0.4}
