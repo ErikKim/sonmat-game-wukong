@@ -10,8 +10,7 @@
     "event_ids": "event_ids.json", "trees": "trees.json", "hap": "hap", "spk": "spk", "auto_rules": "rules_auto.json",
     "speaker": "xuli_level0\\d_done$|jingzhunshanbi",
     "steps": {"events": "(^|/)WuKong_Footstep$", "table": "layers_step_switch.json", "dir": "step"},
-    "scenes": {"cues": "(^|/)(EVT_sfx_seq_\\w+|EVT_sfx_mv\\d*|SEQ_[A-Z]+_Cpt|EVT_seq_hfm_kaimen_fail|SEQ_HFS_Cpt040_Seq020_SFX_Wolf)$", "skip": "rebirthpoint", "trees": "trees_seq.json", "dir": "seq", "rate": 4000, "target": 0.35, "pct": 99, "keep": 0.0,
-      "movies": "^EVT_sfx_mv\\d+$"}
+    "scenes": {"cues": "(^|/)(EVT_sfx_seq_\\w+|SEQ_[A-Z]+_Cpt|EVT_seq_hfm_kaimen_fail|SEQ_HFS_Cpt040_Seq020_SFX_Wolf)$", "skip": "rebirthpoint", "trees": "trees_seq.json", "dir": "seq", "rate": 4000, "target": 0.35, "pct": 99, "keep": 0.0}
   },
 
   "master": 1.0,
