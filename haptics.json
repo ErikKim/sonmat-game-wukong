@@ -89,6 +89,8 @@
     {"match": "player_wk_.*(combo_wosh|atk_.*wosh)", "wave": "swing2"},
     {"match": "act_dodge0?[1-3]_wosh",        "wave": "dodge"},
     {"match": "FS_land|LandType",             "wave": "land"},
+    {"match": "ACT_Land_Sand$", "wave": "land"},
+    {"match": "ACT_HuaSha_Loop$", "wave": "cloud"},
     {"match": "jump_up_wosh",                 "wave": "jump"}
   ],
 
@@ -104,6 +106,7 @@
   "snap": "hit_player_bang|zhuangun|xuli.*(cast|impact)|zadi_",
 
   "stops": [
+    ["ACT_HuaSha_Loop(_Stop)?$|^WuKong_Footstep$", "^Player_WK_ACT_HuaSha_Loop$"],
     ["xuli.*cast|act_dodge", "xuli_level0\\d_(rise|done)"],
     ["ui_hud_xintiao_stop|wk_voice_die|act_reborn", "^heartbeat$"]
   ],
