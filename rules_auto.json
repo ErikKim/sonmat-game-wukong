@@ -2983,5 +2983,3890 @@
   "gain": 1.0,
   "snap": false,
   "count": 0
+ },
+ "EVT_hit_player_bang_level01_light_parry_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_mid_parry_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level01_strong_parry_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_light_parry_all": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_mid_parry_all": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level02_strong_parry_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_light_parry_all": {
+  "class": "parry",
+  "weight": "strong",
+  "gain": 2.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_mid_parry_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level03_strong_parry_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_light_parry_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_mid_parry_all": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_level04_strong_parry_all": {
+  "class": "parry",
+  "weight": "strong",
+  "gain": 2.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_levelall_superstrong_parry_all": {
+  "class": "parry",
+  "weight": "strong",
+  "gain": 2.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hit_player_bang_levelall_ultrastrong_parry_all": {
+  "class": "parry",
+  "weight": "strong",
+  "gain": 2.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_hs_hfm_zishu_atk_hitground_b": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_ATK_Fast03": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_ATK_Fast06": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_ATK_Fast06_buff": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_ATK_Fast07": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_ATK_Fast07_buff": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_ATK_Whoosh_Strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_ATK_Whoosh_Strong_buff": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_Impact_Mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_GYCY_Lang04_Impact_Strong": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_dasheng_atk_wosh_level01_mid": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_dasheng_atk_wosh_level02_mid": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_dasheng_atk_wosh_level03_mid": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_fire_hitground_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_fire_hitground_mid_efx": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_fire_hitground_strong": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_fire_wosh_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_fire_wosh_mid": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_fire_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_hitground_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_hitground_mid_efx": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_hitground_strong": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_ice_hitground_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_ice_hitground_mid_efx": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_ice_hitground_strong": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_ice_wosh_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_ice_wosh_mid": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_ice_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_wosh_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_wosh_mid": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_ftxd_atk_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_airbomb": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_impact_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_lv1_wosh_strong_buff": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_lv2_wosh_strong_buff": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_lv2_xuli_huiji": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_lv2_xuli_impact": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_lv3_wosh_strong_buff": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_lv3_xuli_huiji": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_lv3_xuli_impact": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_dao_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hfm_hu_atk_lv3_dazhao": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_hfm_shi_atk_impact_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_hfm_shi_atk_impact_strong": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_hys_ma_atk_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hys_ma_atk_wosh_strong_elec": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_hys_ma_atk_wosh_strong_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_jindouyun_loop_rush_stop": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_hou_atk_bullet_jianqi": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_hou_atk_bullet_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_hou_atk_bullet_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_hou_atk_dao_impact": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_lys_hou_atk_dao_wosh_strong_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_hou_atk_trans_lv1tolv2": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_shu_atk_impact_strong": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_lys_shu_atk_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_shu_atk_wosh_strong_fire": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_lys_yao_atk_dazhao_lv2_zadi": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_lys_yao_atk_dazhao_lv3_zadi": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_chong_act_body_hit": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_chong_act_body_hit_bachu_short": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_chong_act_body_hit_charu": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_chong_act_return_2": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_psd_chong_act_trans_return": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_psd_chong_atk_skill_fumo_bachu": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_psd_chong_atk_skill_fumo_charu": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_psd_chong_efx_huixue": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_chongi_act_body_hit_bachu": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_long_ATK_Whoosh_Strong_Strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_psd_long_atk_impact_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_long_atk_r2_combo1": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_long_atk_r2_combo2": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_long_atk_r2_combo3": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_long_atk_r2_max_combo1": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_long_atk_r2_max_combo2": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_psd_long_atk_r2_max_combo3": {
+  "class": "my_hit",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_wk_chenggun_special01_cast_rotate": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_wk_chenggun_special01_cast_start": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_wk_fabao_bihuozhao_cast": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_wk_fabao_xiuhuazhen_cast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_wk_fashu_ass_cast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_wk_fashu_ass_talent_cast": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_wk_fashu_jinzifa_cast": {
+  "class": "release",
+  "weight": "none",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_wk_fashu_tttb_success_baozha": {
+  "class": "parry",
+  "weight": "none",
+  "gain": 2.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_wk_qiang_xuli_b_attack_0": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_wk_qiang_xuli_b_attack_1": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_wk_qiang_xuli_b_attack_2": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_wk_qiang_xuli_b_attack_3": {
+  "class": "charge",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_wk_qiang_xuli_b_attack_4": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_xuansu_hou_atk_bullet_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_xuansu_hou_atk_bullet_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_xuansu_hou_atk_dao_wosh_strong_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_xuansu_hou_atk_trans_lv1tolv2": {
+  "class": "charge",
+  "weight": "light",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_xuansu_hou_atk_trans_lv2tolv3": {
+  "class": "charge",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_fire_hitground_mid": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_fire_hitground_strong": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_fire_wosh_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_fire_wosh_mid": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_fire_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_hitground_mid": {
+  "class": "release",
+  "weight": "mid",
+  "gain": 1.28,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_hitground_strong": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_ice_hitground_mid": {
+  "class": "my_hit",
+  "weight": "mid",
+  "gain": 0.8,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_ice_hitground_strong": {
+  "class": "release",
+  "weight": "strong",
+  "gain": 1.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_ice_wosh_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_ice_wosh_mid": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_ice_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_wosh_light": {
+  "class": "my_swing",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_wosh_mid": {
+  "class": "my_swing",
+  "weight": "mid",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_wosh_strong": {
+  "class": "my_swing",
+  "weight": "strong",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_zadi_lv1_impact": {
+  "class": "my_hit",
+  "weight": "light",
+  "gain": 0.6,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_zadi_lv3_impact": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_zadi_lv3_impact_ice": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_zadi_lv4_impact": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "EVT_player_yuan_atk_zadi_lv4_impact_ice": {
+  "class": "my_hit",
+  "weight": "strong",
+  "gain": 1.0,
+  "snap": true,
+  "count": 0
+ },
+ "Player_WK_ACT_HuaBing_Loop": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "Player_WK_ACT_HuaXue_Loop": {
+  "class": "skill",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "Player_WK_ACT_JieFu": {
+  "class": "move",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": false,
+  "count": 0
+ },
+ "ENM_HFM_FuZiShu_Impact_Head": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_WuDuLong_02a_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niumo_atk_impact_foot": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_zhanche_01a_atk_hand_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_02_atk_impact_bomb_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_act_body_undergrond_all": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_efx_claw_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShuangTouShu_01a_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_TuiSeng_ATK_Impact_Foot_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_01_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_diaozuiyusaigui_atk_impact_weiba": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niumo_atk_impact_xiaza_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chifagui_01a_atk_sfx_impact_feet": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_zuandi": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_renshenjing_02a_atk_qibo_storng": {
+  "class": "enemy_act",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_szlc_wanglingguan_01_atk36": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_Lang04_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Jump": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chifagui_01a_atk_sfx_impact_weapon": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_sengmian_efx_weapon_block_break": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_jsds_atk_impact_bang_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_foot_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_tail_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_renshenjing_02a_atk_caita": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_atk_tail_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_atk_foot_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_dujiaoxian_voice_roar": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_stone_01_atk_impact_waterbomb": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_efx_weapon_xuanfeng": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_duowen_atk_umbrella_close_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_hms_atk_impact_butt": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_hms_atk_impact_foot_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_atk_weapon_beat_shuangchui_thunder_strong": {
+  "class": "enemy_act",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_weapon_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_tail_dibo": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zhubajie_01b_atk_weapon_impact_pre": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_Xiong_02_ATK_Impact_Strong_Fire": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_CaiTa": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_Niu_01_Impact_Weapon_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_02_atk_p3_monster_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_jsds_skill_dss_break": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_hand_impact_strong_fire": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_daoshi_02_efx_baoqi_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_act_body_undergrond_all": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zizhuer_01_efx_xuanyun_wuxiao": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_env_interaction_fotou_absorb": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_Lang04_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_NuMuJinGang_ATK_Impact_Body": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_efx_dilie_mid": {
+  "class": "enemy_act",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_weapon_impact_mid_fire": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_duowen_atk_umbrella_open_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_guangmu_act_perform_atk_99_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_diaozuiyusaigui_atk_body_impact_rushui": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjldragon_atk_efx_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_act_body_hit_player": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_sengmian_atk_weapon_impact_strong_du": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_act_monster_zhuaqu_succeed": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_act_body_hitground_player": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_efx_claw_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_youyan_02_atk_head_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_youyan_02_voice_atk_dazhao": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__sl_sgd_atk_hand_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "SFX_Enemy_LYS_XueHou_Attack_JuQi_end": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Foot_EFX": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_FuZiShu_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_level02_atk17_magicbomb_light": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_01a_atk_fenshen_host_attack": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_02_atk13_wosh_show": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_atk_claw_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_szlc_yingzuilu_01_atk_impact_blood": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShiGanDang_01_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_huangpaozhu_atk_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_guangmu_atk_foot_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_01a_atk_fenshen_5_1": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_atk_weapon_beat_shuangchui_mid": {
+  "class": "enemy_act",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_sengmian_atk_efx_ice_dilie_flower_all": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_shangtian_axe_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_zhuatou_p1_01": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_zhuatou_p1_02": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_wa_01_efx_succeed_zhuatou": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_hms_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_hms_efx_thunder_all_atk_13": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_env_interaction_door_big_stone": {
+  "class": "environment",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_DBL_Action_Dead_BodyFall": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_bashanhu_01_atk_rock_ground": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_bashanhu_01_atk_rock_naqi": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_weapon_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_chiguo_atk_perform_atk_26_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_duowen_atk_perform_atk_15_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_luochagui_01_atk02_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjlwoman_atk_efx_zhuatou_02_player_fall": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_shenlong_01a_atk_efx_hand_impact_thunder_light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_tuiseng_atk_hand_impact_strong_double": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_axe_hitground_mid": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_efx_hufu_leitingyiji": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_efx_hufu_thunder_impact_liang": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_hufu_dibo_all": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_efx_tail_stab_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_act_body_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_player_yuan_voice_scream": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShuangTouShu_01a_Die_Bomb": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShuWang_01a_Impact_Body": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_weapon_wosh_red_pro": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_zengzhang_act_perform_atk_98_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_atk10_dici_mid_spread": {
+  "class": "enemy_act",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_atk_dici_mid_spread": {
+  "class": "enemy_act",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niu_02_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_atk_weapon_impact_strong_single": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjldragon_bullet_thunder_impact_layback_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_efx_zhuatou_all": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo2_voice_act_monster_enter": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_shenlong_01a_atk_efx_wepaon_impact_thunder_strong_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_tanfan_success": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_hema_01_voice_fanu_long_atk16": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShuangTouShu_01a_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HYS_ShiXianFeng_02_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_WuDuLong_02a_Impact_BreakPod": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_wuliyun_atk_impact_light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_zhanche_01a_bullet_rock_impact_short": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_level01tolevel02_bomb_01": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_level01tolevel02_bomb_02": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_level01tolevel02_bomb_03": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_chiguo_atk_perform_atk_26": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_zhuatou_atk24": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_zhuatou_atk25": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_zhuatou_atk26": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_efx_dazhao": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_XueHou_ATK_JuQi": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bsd_jjshou_atk_efx_dazhao_all_ice": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bsd_jjshou_atk_hand_impact_strong_normal": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_zengzhang_atk_perform_atk_25_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_hms_atk_impact_foot_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_jsds_atk_impact_body": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_skill04_hitground": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_efx_fanu": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_foshouchong_02a_atk_hand_zhuaqu_bodyhit": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_efx_tail_stab_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShaWuLiang_Attack_Impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_shawuliang_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_xishuai_act_monster_land": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niu_02_atk_impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_shitongling_02a_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_02_atk13_bullet_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_02_atk_impact_weaponhit_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo2_atk_efx_kuangbao": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_jsds_zhuatou_01": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_jsds_zhuatou_02": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_spire_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_youyan_02_atk_body_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zhubajie_02a_atk_hand_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_DBL_ATK_Impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Foot": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_Hu_Stone_01_ATK_RoarA": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_Hu_Stone_01_ATK_RoarB": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_WuDuLong_02a_Impact_Mid_Thunder": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_XueHou_ATK_Impact_Weapon_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_atk_weapon_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_efx_impact_strong_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_duowen_atk_umbrella_close_impact_light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo2_atk_impact_foot_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_hms_atk_roll_all_atk_07": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_BaiYi_01_ATK_Atk06_Start": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_wuliyun_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_zhanche_01a_atk_body_jump_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_v2_atk05_weapon_impact_thunder_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_atk_hand_impact_double": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_efx_dazhao_dibaotianxing": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_duchongsishi_atk_weapon_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_act_body_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_youyan_02_atk_body_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_xiniu_01_atk_impact_light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_gycy_hfdw_impact_superstrong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_zhanche_01a_atk_hand_impact_strong_jizhang": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_xuehou_efx_snow_break": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_act_player_zhuaqu_impact": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_efx_ice_blast_annular_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hfds_01a_atk_lock01_a": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_suoyang_atk_zhuatou": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_luochagui_01_act_die_kneefall": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_sengmian_atk_efx_ice_dilie_round_all": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_l1_dadao_atk_hitground": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_l2_atk_dao_hitground": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_zhuatou_atk91": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_zhuatou_atk92": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_zhuatou_atk96": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_efx_thunder_impact_chen": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_player_hys_ma_atk_wosh_strong_strong_elec": {
+  "class": "environment",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShiGanDang_01_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bsd_jjshou_atk_hand_zhuaqu_all_ice": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_shigandang_01_atk08_magic_explode": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_chiguo_atk_perform_atk_99_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_guangmu_atk_perform_atk01_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_atk_foot_thunder_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjlwoman_atk_efx_zhuatou_01_player_fall": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_atk_efx_moyin_impact_head": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_shenlong_01a_efx_baoqi": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yangjian_01_atk_axe_hitground": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_szlc_wanglingguan_01_atk_sword_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_Xiong_02_Action_Impact_Land": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_Xiong_02_ATK_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HYS_XingGongXian_01_Shield_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_bashanhu_01_atk_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_level02_atk17_magicbomb_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_guangmu_atk_perform_atk09_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_kuairufeng_01_act_head_knockdown": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_luochagui_01_atk11_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_efx_moyin_boom_atk02": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_sengmian_atk_efx_bones_boom_du": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_wa_01_efx_succeed_zhuatou": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShiXianFeng_01_atk03_Impact_A": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShiXianFeng_01_atk03_Impact_B": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_WuDuLong_02a_ACT_BodyFall": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bsd_jjshou_atk_hand_zhuaqu_all_fire": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_shitongling_02a_atk03_impact_light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_efx_thunder_impact_yinbao": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_efx_bullet_start_second_atk04": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_efx_dazhao_head_moyin_boom": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_atk_impact_weapon_pikan": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_player_ftxd_voice_scream": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_HFDW_ATK_Impact02_Hand": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_wa_01_efx_succeed_zhuatou_01": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_xuehou_efx_snow_impact_strong_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_efx_hufu_luoxuanwan_boom_strong": {
+  "class": "enemy_act",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_atk_claw_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_tanglang_atk_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_HFDW_ATK_Impact03_Weapon": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_atk_foot_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_shitongling_02a_atk_impact_light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjlwoman_atk_efx_xuli_all_atk_11": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_zhuatou_30": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_zhuatou_31": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_zhuatou_32": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShiGanDang_01_Impact_Light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_atk_head_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_atk_beici_5_1": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjldragon_atk_efx_nahan": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_xiniu_01_atk_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_efx_xuanfeng_rock": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_hms_p2_impact_hand": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_luochagui_01_atk08_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_l2_atk_axe_hitground": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_Dage_ATK_Impact_Thunder_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_kuairufeng_01_bullet_hitground": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_luochagui_01_atk03_foot_kick": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_v2_atk06_weapon_impact_mid_single": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjlwoman_atk_efx_zhuatou_02_succeed": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zizhuer_01_atk_efx_yanhua": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_sl_shitongling_01_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__sl_sgd_atk_hand_impact_strong_strong_double": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_hema_01_voice_fanu_short_atk17": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bsd_jjshou_atk_hand_impact_strong_fire": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_level02_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hfds_01a_atk_lock02_wosh": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niaozui_atk_impact_sfx_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_wuliyun_atk04_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_wuliyun_atk_impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_wudulong_03a_efx_fumo_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_act_body_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HYS_XianGongXing_01_Shield_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_level02_atk18_magicbomb_light": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_atk_dici_strong_spread": {
+  "class": "enemy_act",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_zhanche_01a_atk_sfx_baoqi": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo1_atk_head_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_efx_fire_blast_mid": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_efx_normal_blast_annular_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_szlc_wanglingguan_01_atk_zhuatou": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_HFDW_ATK_Impact04_Weapon": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShuWang_01a_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niaozui_atk_impact_sfx_01_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_02_atk_impact_bomb_mid": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjldragon_atk_efx_zhuatou_succeed": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjlwoman_atk_efx_zhuatou_03_succeed": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_laoseng_01_atk_efx_qigong_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_NuMuJinGang_ATK_Impact_Weapon": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bsd_jjshou_atk_efx_dazhao_all_fire": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_gycy_dbl_01_atk_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_zengzhang_atk_perform_atk_12_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_atk_weapon_impact_double_thunder": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_sengmian_atk_efx_ice_dilie_all": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_atk_claw_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_HFDW_ATK_Impact01_Weapon": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_wa_01_efx_succeed_zhuatou_01": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_zhanche_01a_atk_hand_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_02_atk_p3_monster_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjldragon_atk_efx_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_sengmian_bullet_ice_ground_end": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_tuiseng_efx_hand_qibo_mid": {
+  "class": "enemy_act",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_wulong_atk_weapon_imapct_strong": {
+  "class": "enemy_act",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_szlc_wanglingguan_01_atk_lun_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "FS_ENM_HFM_Niu_01_ZhuaTou": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_atk_weapon_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_duowen_atk_perform_atk_26_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_guangmu_atk_perform_atk12_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_hms_p2_atk04_roar": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_jiruhuo_act_body_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niumo_atk_weapon_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_atk_weapon_impact_strong_double": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_xuehou_efx_snow_bingqiang": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_hand_impact_strong_normal": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_foshouchong_02a_atk_hand_zhuaqu": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_hms_atk_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Fast33": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Fast39": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShiXianFeng_01_Impact_Mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HYS_XianGongXing_01_ATK_Heti01_SoundWave": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_atk_dz_dici": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_huangmei_03_atk07_caita": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_tuiseng_act_player_body_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_jsds_skiil_dss_cast": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_hand_impact_strong_ice": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_sl_sgd_voice_monster_fanu_enter": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_szlc_wa_01_efx_succeed_zhuatou": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_xishuai_act_monster_jump": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_luochagui_01_atk_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hgs_duowen_efx_umbrella_thunder_all_atk_19_new": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_tuiseng_efx_hand_qibo_strong": {
+  "class": "enemy_act",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HYS_XingGongXian_01_ATK_Heti01_SoundWave": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_v2_atk1301_impact_thunder_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_erlangshen_01_l2_atk_dao_axe_hitground": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_kuairufeng_01_fireball_hit_ground": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_og_atk_tail_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zhubajie_01b_atk_weapon_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_niaozui_atk_body_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_v2_atk05_weapon_impact_thunder_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_mo3_atk_impact_foot_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_weapon_impact_strong_rock": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "SFX_GYCY_Zhong_01": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_xuehou_efx_snow_dibo_all": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_LYS_Dage_ATK_07_XuLi": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_kuairufeng_01_atk_head_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_atk_claw_hit_01": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zizhuer_01_atk_body_underground": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__szlc_hms_voice_fanu": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_efx_weapon_impact_tuchu": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_act_body_undergrond_all_short": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HYS_XingGongXian_01_Shield_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_efx_normal_blast_strong_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_kjlwoman_atk_efx_zhuatou_01_succeed": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_voice_atk_nahan_1": {
+  "class": "enemy_roar",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hu_wind_01_atk_efx_dilie_large": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_Xiong_02_ATK_Impact_Light": {
+  "class": "enemy_hit",
+  "weight": "light",
+  "gain": 0.5,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_baiyanmojun_efx_dazhao_jinguangzhao": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_tuiseng_atk_hand_impact_strong_single": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_stone_throw_ground_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_hms_p2_atk05_01_bullet_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hys_honghaier_02a_atk10_dici_light_spread": {
+  "class": "enemy_act",
+  "weight": "light",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_xiezijing_01a_act_body_hit": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Fast32_1": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Fast32_2": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Fast32_3": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_GYCY_YanJianXi_ATK_Impact_Fast32_4": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_Hu_Stone_01_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_Niu_01_Impact_Weapon_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_ShiXianFeng_01_Impact_Strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_fuzishu_atk_impact_strong_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_shenlong_01a_atk_efx_hand_impact_thunder_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_renshenjing_02a_atk_under_circle_bomb": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_chuilong_01a_v2_atk1301_impact_thunder_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zhizhujing_02_atk_body_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_bhl_gushoufsq_01_atk_weapon_impact_throw": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_hfm_hfds_01a_atk_lock02_zhujue_fangun": {
+  "class": "enemy_act",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_jsds_atk_impact_bang_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zizhuer_01_atk_body_impact_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_lys_tuiseng_atk_hand_zhuaqu": {
+  "class": "enemy_grab",
+  "weight": "none",
+  "gain": 1.0,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HYS_XianGongXing_01_Sword_Impact_Atk03": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_mgd_yuan_atk_efx_fire_blast_strong_strong": {
+  "class": "enemy_hit",
+  "weight": "strong",
+  "gain": 0.9,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "ENM_HFM_Hou_01_Fast13_Impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_szlc_wanglingguan_01_atk_sword_impac_strong": {
+  "class": "enemy_act",
+  "weight": "strong",
+  "gain": 0.7,
+  "snap": false,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_duchongsishi_atk_impact_head": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm_psd_zhubajie_02a_atk_body_impact": {
+  "class": "enemy_hit",
+  "weight": "none",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
+ },
+ "EVT_enm__sl_sgd_atk_hand_impact_mid": {
+  "class": "enemy_hit",
+  "weight": "mid",
+  "gain": 0.7,
+  "snap": true,
+  "count": 1,
+  "why": "orig_motion"
  }
 }
