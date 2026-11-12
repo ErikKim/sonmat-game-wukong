@@ -43,6 +43,7 @@
   "style": {"rough": "hit", "hit": "sb", "top": "parry|jingzhunshanbi|hit_fly", "skip": "heartbeat|zhuangun|_wosh|step|xuli|thud|^land$|FS_land|LandType|^cloud",
             "sizes": [["_light_", {"hz": 62, "ms": 18}], ["_strong_", {"hz": 40, "ms": 45}], ["jingzhunshanbi", {"tail_s": 2.6, "tail": 0.3}], ["hit_fly", {"hz": 40, "top_ms": 150, "tail_s": 1.8}], ["die_bodyfall|^down$", {"hz": 40, "ms": 45}], ["baozha|explo|bomb", {"tail_s": 2.4, "tail": 0.3, "hz": 45, "ms": 70}]]},
   "duck": 0.3,
+  "overlap": {"same_within": 0.05},
   "synth_gain": 0.7,
 
   "waves": {"cloud": [[190, 45, 0.1, 25], [120, 60, 0.07, 30]], "cloud_up": [{"swell": [70, 450, 0.6]}], "cloud_rush": [{"swell": [95, 350, 0.7]}], "cloud_spray": [[150, 30, 0.4, 12], [80, 200, 0.28, 90]], "cloud_grab": [[70, 60, 1.0, 30], [45, 180, 0.9, 80]], 
@@ -76,22 +77,23 @@
     {"match": "hit_enm_.*_zhuangun",          "wave": "deflect"},
     {"match": "zhuangun_.*wosh",              "wave": "tutuk"},
     {"match": "xuli.*(cast|hitground|xiapi)", "wave": "thud"},
-    {"match": "voice_hurt_fly",               "wave": "hit_fly", "synth": true},
-    {"match": "voice_hurt_strong",            "wave": "hit_heavy", "synth": true},
-    {"match": "Player/.*voice_hurt",          "wave": "hit_light", "synth": true},
+    {"match": "voice_hurt_fly",               "wave": "hit_fly", "synth": true, "_slot": "struck"},
+    {"match": "voice_hurt_strong",            "wave": "hit_heavy", "synth": true, "_slot": "struck"},
+    {"match": "Player/.*voice_hurt",          "wave": "hit_light", "synth": true, "_slot": "hurt"},
     {"match": "SFX/Hit/.*EVT_hit_enm_",       "wave": "struck"},
-    {"match": "jingzhunshanbi_baozha",        "wave": "dodge"},
+    {"match": "jingzhunshanbi_baozha",        "wave": "dodge", "_slot": "parry"},
     {"match": "bang_levelall_parry",          "wave": "parry"},
     {"match": "Enemy/.*voice_hurt",           "wave": "landed", "synth": true},
     {"match": "Attack/Impact/",               "wave": "impact"},
     {"match": "skill_heyao$",                 "wave": "heal"},
     {"match": "die_bodyfall",                 "wave": "down"},
-    {"match": "player_wk_.*(combo_wosh|atk_.*wosh)", "wave": "swing2"},
+    {"match": "player_wk_.*(combo_wosh|atk_.*wosh)", "wave": "swing2", "_slot": "swing"},
     {"match": "act_dodge0?[1-3]_wosh",        "wave": "dodge"},
     {"match": "FS_land|LandType",             "wave": "land"},
     {"match": "ACT_Land_Sand$", "wave": "land"},
     {"match": "ACT_HuaSha_Loop$", "wave": "cloud"},
-    {"match": "jump_up_wosh",                 "wave": "jump"}
+    {"match": "jump_up_wosh",                 "wave": "jump"},
+    {"match": "EVT_hit_player_bang_",         "_slot": "hit"}
   ],
 
   "haptic_trim": [
