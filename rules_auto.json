@@ -6868,5 +6868,69 @@
   "snap": true,
   "count": 1,
   "why": "orig_motion"
+ },
+ "EVT_player_lys_hou_atk_dao_wosh_mid_light": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
+ },
+ "EVT_player_lys_hou_atk_dao_wosh_strong_light": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
+ },
+ "EVT_player_lys_hou_atk_dao_wosh_mid_strong": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
+ },
+ "EVT_player_lys_hou_atk_dao_wosh_pre": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
+ },
+ "EVT_player_xuansu_hou_atk_dao_wosh_mid_light": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
+ },
+ "EVT_player_xuansu_hou_atk_dao_wosh_strong_light": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
+ },
+ "EVT_player_xuansu_hou_atk_dao_wosh_mid_strong": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
+ },
+ "EVT_player_xuansu_hou_atk_dao_wosh_pre": {
+  "class": "my_swing",
+  "weight": "none",
+  "gain": 0.6,
+  "snap": false,
+  "count": 0,
+  "why": "form_swing"
  }
 }
